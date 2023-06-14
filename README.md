@@ -94,7 +94,7 @@ A great way to make responsive layouts with CSS Grid without having to worry, is
 
 ### Useful resources
 
-- [Kevin Powell - Why CSS grid-area is the best property for laying out content](https://www.youtube.com/watch?v=duH4DLq5yoo) - A great video on why Grid Area is the way to go for responsive layouts without any hassle.
+- [Kevin Powell - Why CSS grid-area is the best property for laying out content](https://www.youtube.com/watch?v=duH4DLq5yoo) - A great video on why `grid-template-areas` along with `grid-area` is the way to go for responsive grid layouts without any hassle.
 
 ## Author
 
