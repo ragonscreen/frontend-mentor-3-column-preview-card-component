@@ -34,9 +34,9 @@ Users should be able to:
 
 ![mobile site preview](./images/site-preview-mobile.png)
 
-- Hover State:
+- Hover & Focus State:
 
-![hover state](./images/site-preview-hover.png)
+![hover and focus state](./images/site-preview-hover.png)
 
 ### Links
 
